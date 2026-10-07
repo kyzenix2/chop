@@ -52,7 +52,7 @@ function footer() {
             <a href="/docs/introduction">Docs</a>
             <a href="/docs/risks">Risks</a>
             <a href="/docs/contracts">Contracts</a>
-            <a href="https://x.com/ChopLogsApp" target="_blank" rel="noreferrer">X</a>
+            <a href="https://x.com/choplogs_app" target="_blank" rel="noreferrer">X</a>
           </nav>
           <p class="footer-note">Chop is experimental software. <a class="text-link" href="/docs/risks">Read the risks</a> before depositing.</p>
           <p class="footer-note">Built on Robinhood Chain, utilizing proven peapod infrastructure</p>
